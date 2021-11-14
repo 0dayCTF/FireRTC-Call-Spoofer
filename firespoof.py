@@ -1,7 +1,6 @@
 ###################################################################
 #                  Author:  Ryan Montgomery                       #
 #        Use wisely, or you'll go to prison                       #
-#          Github: https://github.com/ryanrohypnol                #
 #                                                                 #
 ###################################################################
 
